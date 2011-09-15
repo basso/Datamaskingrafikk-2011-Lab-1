@@ -1,0 +1,6 @@
+\\taraldsvik\home$\490431\my documents\visual studio 2010\Projects\Primitiver1\Primitiver1\Primitiver1\bin\x86\Debug\Primitiver1.exe
+\\taraldsvik\home$\490431\my documents\visual studio 2010\Projects\Primitiver1\Primitiver1\Primitiver1\bin\x86\Debug\Primitiver1.pdb
+\\taraldsvik\home$\490431\my documents\visual studio 2010\Projects\Primitiver1\Primitiver1\Primitiver1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\taraldsvik\home$\490431\my documents\visual studio 2010\Projects\Primitiver1\Primitiver1\Primitiver1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\taraldsvik\home$\490431\my documents\visual studio 2010\Projects\Primitiver1\Primitiver1\Primitiver1\obj\x86\Debug\Primitiver1.exe
+\\taraldsvik\home$\490431\my documents\visual studio 2010\Projects\Primitiver1\Primitiver1\Primitiver1\obj\x86\Debug\Primitiver1.pdb

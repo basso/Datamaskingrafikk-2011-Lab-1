@@ -1,0 +1,6 @@
+\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1\bin\x86\Debug\Trekant1.exe
+\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1\bin\x86\Debug\Trekant1.pdb
+\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1\obj\x86\Debug\Trekant1.exe
+\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1\obj\x86\Debug\Trekant1.pdb

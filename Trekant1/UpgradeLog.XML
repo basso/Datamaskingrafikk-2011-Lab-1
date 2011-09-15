@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Trekant1">
+</Property><Property Name="Solution File" Value="\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1.sln">
+</Property><Property Name="User Options File" Value="\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1.suo">
+</Property><Property Name="Date" Value="2. september 2011">
+</Property><Property Name="Time" Value="20:56">
+</Property><Property Name="Solution" Value="Trekant1">
+</Property><Property Name="Solution File" Value="\\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Trekant1.sln">
+</Property><Property Name="Date" Value="2. september 2011">
+</Property><Property Name="Time" Value="20:56:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Trekant1.sln" Description="File successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Trekant1.suo" Description="File successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1.suo">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Trekant1.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Trekant1.csproj" Description="Project file successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1\Trekant1.csproj">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Trekant1.csproj.user" Description="Project user file successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1\Trekant1.csproj.user">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Properties\AssemblyInfo.cs" Description="File successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Program.cs" Description="File successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1\Program.cs">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Trekant1.cs" Description="File successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1\Trekant1.cs">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Game.ico" Description="File successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1\Game.ico">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\GameThumbnail.png" Description="File successfully backed up as \\taraldsvik\home$\490431\My Documents\Visual Studio 2008\Projects\Trekant1\Backup\Trekant1\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Trekant1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Trekant1" Source="Trekant1\Trekant1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Trekant1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Trekant1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Trekant1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Trekant1" Source="Trekant1\Trekant1.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Trekant1Content" Source="Trekant1\Content\Trekant1Content.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

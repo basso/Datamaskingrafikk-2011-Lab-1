@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekant1", "Trekant1\Trekant1.csproj", "{D9C9810F-5CF7-411D-9349-455CAA92314A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C9810F-5CF7-411D-9349-455CAA92314A}.Debug|x86.ActiveCfg = Debug|x86
+		{D9C9810F-5CF7-411D-9349-455CAA92314A}.Debug|x86.Build.0 = Debug|x86
+		{D9C9810F-5CF7-411D-9349-455CAA92314A}.Release|x86.ActiveCfg = Release|x86
+		{D9C9810F-5CF7-411D-9349-455CAA92314A}.Release|x86.Build.0 = Release|x86
+		{13295A23-3D7A-4B5C-8FF1-08E5D59CBEFB}.Debug|x86.ActiveCfg = Debug|x86
+		{13295A23-3D7A-4B5C-8FF1-08E5D59CBEFB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
